@@ -5,11 +5,13 @@
 ### Everything About me 
 I'm just a guy who really likes coding and shit, leave me alone I'm procastinating my projects bro.
 
+_Profile Picture: [`@Fishen_`](https://xcancel.com/Fishen_/status/2008604749936128447#m)_
+
 #### Fun Fact's About me
 - Heteroromantic (Asexual)
-- High-Functioning Autistic
+- High-Functioning Autistic dumbass
 - Mainly codes in Lua, but I can also code in Javascript, Python, Haxe.
-- Greatest Outcome Memories player to ever exist _(lying)_
+- Greatest Outcome Memories (RIP) player to ever exist _(lying)_
 - Big Math Nerd
 
 #### Where you can find me
