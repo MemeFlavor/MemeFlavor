@@ -5,8 +5,6 @@
 ### Everything About me 
 I'm just a guy who really likes coding and shit, leave me alone I'm procastinating my projects bro.
 
-_Profile Picture: [`@Fishen_`](https://xcancel.com/Fishen_/status/2008604749936128447#m)_
-
 #### Fun Fact's About me
 - Heteroromantic (Asexual)
 - High-Functioning Autistic dumbass
