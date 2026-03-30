@@ -2,22 +2,21 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meme1079&theme=merko&PAT_1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meme1079&layout=compact&theme=merko&PAT_1)
 
-### Everything About me 
-I'm just a guy who really likes coding and shit, leave me alone I'm procastinating my projects bro.
+### Everything About Me!
+Hi I'm just a guy who really coding, gaming and whatever shit I'm currently doing in life. Anyways, now leave me alone I'm procastinating my projects as usual.
 
-#### Fun Fact's About me
-- Heteroromantic (Asexual)
+#### Fun Fact's About Me
 - High-Functioning Autistic dumbass
-- Mainly codes in Lua, but I can also code in Javascript, Python, Haxe.
-- Greatest Outcome Memories (RIP) player to ever exist _(lying)_
-- Big Math Nerd
+- Heteroromantic (Asexual)
+- I mainly code in Lua, but I can also code in Javascript, Python, and Haxe.
+- I love trigonometry 🤤
+- Greatest Outcome Memories (RIP) player to ever exist _(lying)_.
 
 #### Where you can find me
 - Youtube: https://www.youtube.com/channel/UCg3HMcfzc6K1Hg5wQe-hHwA (Subscribe nerds)
 - Gamebanana: https://gamebanana.com/members/2112708
-- Geometry Dash: https://gdbrowser.com/u/meme10793
 - Roblox: https://www.roblox.com/users/554345988/profile
-- Discord: meme1079 _(⚠️ I may be slow to respond ⚠️)_
+- Discord: memeflavor _(⚠️ I may be slow to respond ⚠️)_
 
 ### Very Important Message
 <details><summary>CLICK ME</summary>
