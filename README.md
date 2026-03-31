@@ -22,7 +22,7 @@ Hi I'm just a guy who really coding, gaming and whatever shit I'm currently doin
 <details><summary>CLICK ME</summary>
 <p>
 
-![2017x-sonic](https://github.com/user-attachments/assets/d36e7039-716c-4605-9e99-668c325aca7a)
+![2017x-sonic](https://github.com/user-attachments/assets/e4c95e29-8e8a-4b12-8b1a-bf8bace5bb84)
 
 </p>
 </details>
