@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meme1079&layout=compact&theme=merko&PAT_1)
 
 ### Everything About Me!
-Hi I'm just a guy who really likes coding, gaming and whatever shit I'm currently doing in life. Anyways, now leave me alone I'm procastinating my projects as usual.
+Hi I'm just a guy who really likes coding, gaming and whatever shit I'm currently doing in my life. Anyways, now leave me alone I'm procastinating my projects as per usual.
 
 #### Fun Fact's About Me
 - High-Functioning Autistic dumbass
