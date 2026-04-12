@@ -1,6 +1,6 @@
 ### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meme1079&theme=merko&PAT_1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meme1079&layout=compact&theme=merko&PAT_1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MemeFlavor&theme=merko&PAT_1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MemeFlavor&layout=compact&theme=merko&PAT_1)
 
 ### Everything About Me!
 Hi I'm just a guy who really likes coding, gaming and whatever shit I'm currently doing in my life. Anyways, now leave me alone I'm procastinating my projects as per usual.
